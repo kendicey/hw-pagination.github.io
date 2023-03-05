@@ -1,0 +1,19 @@
+{
+  "name": "exercise-lab-2---starter",
+  "version": "1.0.0",
+  "description": "CSIS3380_Ex_Lab_2",
+  "main": "/js/script.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kendicey/CSIS3380_work.git"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kendice YEUNG",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
